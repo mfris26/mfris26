@@ -1,9 +1,8 @@
-# Hi,I'm Faris
+
 
 <p align="center">
   <img src="img//github-header-banner.png" width="600"/>
 </p>
-
 ---
 
 <!-- ### 🚀 About Me
